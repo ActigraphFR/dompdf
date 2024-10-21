@@ -82,5 +82,11 @@
     "bold": "Naotypo",
     "italic": "Naotypo",
     "bold_italic": "Naotypo"
+  },
+  "bzh": {
+    "normal": "RegionBretagne",
+    "bold": "RegionBretagne",
+    "italic": "RegionBretagne",
+    "bold_italic": "RegionBretagne"
   }
 }
