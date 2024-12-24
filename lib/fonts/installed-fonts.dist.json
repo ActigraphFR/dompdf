@@ -88,5 +88,11 @@
     "bold": "RegionBretagne",
     "italic": "RegionBretagne",
     "bold_italic": "RegionBretagne"
+  },
+  "josefin": {
+    "normal": "Josefin",
+    "bold": "Josefin",
+    "italic": "Josefin",
+    "bold_italic": "Josefin"
   }
 }
